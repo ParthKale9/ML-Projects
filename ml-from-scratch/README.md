@@ -18,7 +18,7 @@ with what you learned.
 | # | Topic | Project | Status |
 |---|---|---|---|
 | 01 | Model Representation | [Linear Model Playground](./01-model-representation) — predicting salary from years of experience | ✅ Done |
-| 02 | Cost Function | TBD | ⬜ Planned |
+| 02 | Cost Function | [Linear Cost Function](./02-cost-function) | ✅ Done |
 | 03 | Gradient Descent | TBD | ⬜ Planned |
 | 04 | Multiple Linear Regression | TBD | ⬜ Planned |
 | 05 | Feature Scaling & Engineering | TBD | ⬜ Planned |
